@@ -1,9 +1,13 @@
 # my_lambdata/my_mod.py
 
 def enlarge(n):
-    """
-    Param n is a number
-    Function will enlarge the number
+    """[a function which enlarges a number by two orders of magnitude]
+
+    Args:
+        n ([int or float]): [any number]
+
+    Returns:
+        [int or float]: [n*100]
     """
     return n * 100
 
