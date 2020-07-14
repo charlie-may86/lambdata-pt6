@@ -16,5 +16,5 @@ print(enlarge(8))
 ```
 
 ```sh
-website containing the function: https://test.pypi.org/project/lambdata6/1.0/
+website containing the function: https://test.pypi.org/project/lambdata6/1.1/
 ```
