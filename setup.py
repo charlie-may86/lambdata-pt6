@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="lambdata6", # the name that you will install via pip
-    version="1.0",
+    version="1.1",
     author="Charlie May",
     author_email="camiv95@gmail.com",
     description="contains a function that enlarges a number by 100x",
