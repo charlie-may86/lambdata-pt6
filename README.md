@@ -3,8 +3,15 @@ Attempt Number 2
 
 ## Instalation
 
-TODO
+```
+pip install ______
+```
 
 ## USAGE
 
-TODO
+```py
+from my_lambdata6.my_mod import enlarge 
+
+print(enlarge(8))
+```
+
