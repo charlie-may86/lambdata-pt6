@@ -1,9 +1,5 @@
 from pandas import DataFrame
 
-# State abbreviation -> Full Name and visa versa. FL -> Florida, etc.
-# (Handle Washington DC and territories like Puerto Rico etc.)
-# TODO: Helper function from assignment
-
 
 def add_state_names_column(my_df):
     """[This functions adds a column of corresponding state names to a df
@@ -33,8 +29,3 @@ if __name__ == "__main__":
 
     mapped_df = add_state_names_column(df)
     print(mapped_df.head())
-
-    df2 = DataFrame({'other_col':[1,2,3]})
-    df2.head()
-
-    breakpoint()
