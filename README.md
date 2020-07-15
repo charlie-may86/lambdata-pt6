@@ -4,7 +4,7 @@ This is an oppurtunity for me to learn how to create a function, store in TestPy
 ## Instalation
 
 ```
-! pip install -i https://test.pypi.org/simple/ lambdata6==1.0
+! pip install -i https://test.pypi.org/simple/ lambdata6==1.1
 ```
 
 ## USAGE
