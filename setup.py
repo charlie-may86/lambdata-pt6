@@ -17,5 +17,5 @@ setup(
     license="MIT",
     url="https://github.com/charlie-may86/lambdata-pt6",
     # keywords="",
-    packages=find_packages()  # ["my_lambdata"]
+    packages=['my_lambdata6']  # ["my_lambdata"]
 )

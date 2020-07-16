@@ -17,8 +17,9 @@ def enlarge(n):
 
 if __name__ == "__main__":
 
+    print('Hello')
     y = int(input("Please choose a number"))
-    print(y, enlarge(y))
+    print(f'{y} becomes', enlarge(y))
 
 # if __name__ == "__main__":
 #     # only run the code below IF this script is invoked from the command-line
